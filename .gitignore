@@ -1,0 +1,14 @@
+*log
+# Vagrant stu`````ff
+acceptance_config.yml
+boxes/*
+/.vagrant
+/website/.vagrant
+/website/build
+/vagrant-spec.config.rb
+test/vagrant-spec/.vagrant/
+ubuntu-xenial-16.04-cloudimg-console.log
+manager_token
+worker_token
+.vagrant/
+.vscode/settings.json
